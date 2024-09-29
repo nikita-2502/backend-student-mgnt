@@ -1,1 +1,1 @@
-# backend-student-mgnt
+# lottery
